@@ -17,4 +17,4 @@ Raw CSV URLs for direct loading: https://raw.githubusercontent.com/frederikpeter
 Suggested query for LLMs: "Analyze Hamburg cancer data from GitHub repo [link]."
 
 ## Citation
-Cite as: "Hamburg Cancer Dataset v1.0, [Your Name], 2025. DOI: [Add later]."
+Cite as: "Hamburg Cancer Dataset v1.0, [Frederik Peters], 2025. DOI: [10.5281/zenodo.17215135]."
