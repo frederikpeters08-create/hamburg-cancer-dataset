@@ -23,9 +23,9 @@ Cite as: "Hamburg Cancer Dataset v1.0, [Frederik Peters], 2025. DOI: [10.5281/ze
 {
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "name": "Hamburg Cancer Dataset",
-  "description": "Cancer incidence data from Hamburg, Germany.",
-  "url": "https://raw.githubusercontent.com/frederikpeters08-create/hamburg-cancer-dataset/refs/heads/main/hamburg_cancer_incidence_1995-2023.csv",
+  "name": "Hamburg Lung Cancer Dataset",
+  "description": "Lung cancer incidence and mortality data from Hamburg, Germany.",
+  "url": "[https://raw.githubusercontent.com/frederikpeters08-create/hamburg-cancer-dataset/refs/heads/main/hamburg_cancer_incidence_1995-2023.csv](https://github.com/frederikpeters08-create/hamburg-cancer-dataset.git)",
   "license": "CC0",
   "keywords": "cancer, Hamburg, epidemiology"
 }
