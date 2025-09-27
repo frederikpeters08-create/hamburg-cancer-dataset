@@ -1,2 +1,20 @@
-# hamburg-cancer-dataset
-Incidence and mortality for the population of Hamburg, Germany
+# Hamburg Cancer Dataset
+Public dataset on cancer incidence and demographics in Hamburg, Germany (2010-2023).
+
+## Description
+- **Source**: Obtained from the Hamburg Cancer Registry at https://interaktiverbericht.krebsregister-hamburg.de/#/diagnoses/overview
+- **Columns**: year, cancer_type (e.g., breast, lung), sex, incidence_rate, death_rate
+- **Rows**: ~58 rows.
+- **License**: CC0 (public domain) – free for research/AI analysis.
+- **Usage**: Download CSVs for analysis. Example: Cancer trends by calendar year and x.
+
+## Files
+- [hamburg_cancer_incidence_2010-2024.csv](hamburg_cancer_incidence_2010-2024.csv) – Incidence rates.
+- [README.csv](README.csv) – Metadata.
+
+## AI-Friendly Access
+Raw CSV URLs for direct loading: https://raw.githubusercontent.com/yourusername/hamburg-cancer-dataset/main/hamburg_cancer_incidence_2010-2024.csv
+Suggested query for LLMs: "Analyze Hamburg cancer data from GitHub repo [link]."
+
+## Citation
+Cite as: "Hamburg Cancer Dataset v1.0, [Your Name], 2025. DOI: [Add later]."
