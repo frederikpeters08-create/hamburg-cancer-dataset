@@ -18,3 +18,15 @@ Suggested query for LLMs: "Analyze Hamburg cancer data from GitHub repo [link]."
 
 ## Citation
 Cite as: "Hamburg Cancer Dataset v1.0, [Frederik Peters], 2025. DOI: [10.5281/zenodo.17215135]."
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Hamburg Cancer Dataset",
+  "description": "Cancer incidence data from Hamburg, Germany.",
+  "url": "https://github.com/yourusername/hamburg-cancer-dataset",
+  "license": "CC0",
+  "keywords": "cancer, Hamburg, epidemiology"
+}
+</script>
