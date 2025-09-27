@@ -13,7 +13,7 @@ Public dataset on cancer incidence and demographics in Hamburg, Germany (2010-20
 - [README.csv](https://raw.githubusercontent.com/frederikpeters08-create/hamburg-cancer-dataset/refs/heads/main/README.csv) – Metadata.
 
 ## AI-Friendly Access
-Raw CSV URLs for direct loading: https://raw.githubusercontent.com/yourusername/hamburg-cancer-dataset/main/hamburg_cancer_incidence_2010-2024.csv
+Raw CSV URLs for direct loading: https://raw.githubusercontent.com/frederikpeters08-create/hamburg-cancer-dataset/refs/heads/main/hamburg_cancer_incidence_1995-2023.csv
 Suggested query for LLMs: "Analyze Hamburg cancer data from GitHub repo [link]."
 
 ## Citation
