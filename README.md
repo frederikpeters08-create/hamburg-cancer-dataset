@@ -1,4 +1,4 @@
-# Hamburg Cancer Dataset
+# Hamburg Lung Cancer Dataset
 Public dataset on cancer incidence and demographics in Hamburg, Germany (2010-2023).
 
 ## Description
